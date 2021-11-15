@@ -16,7 +16,7 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="JAVA" width="26px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficon-library.com%2Ficon%2Fjava-icon-png-3.html&psig=AOvVaw2Ql-6N_iBIob8wlNXyTTW-&ust=1637074642874000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLiM-bbQmvQCFQAAAAAdAAAAABAD" />
+<img align="left" alt="JAVA" width="26px" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
 
 
 <br />
