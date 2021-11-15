@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashok Reddy LakkiReddy</h1>
-I'm 23-year-old boy on an intention to enhance as a successful java  developer. I love building  web applications and mobile apps . I have proved my superiority in Back-End technologies. 
+<h4 align="left" >I'm 23-year-old boy on an intention to enhance as a successful java  developer. I love building  web applications and mobile apps . I have proved my superiority in Back-End technologies. </h4>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
