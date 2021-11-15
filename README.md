@@ -22,8 +22,7 @@
 <br />
 <br />
 
+| <a href="https://github.com/Ashok-reddy340/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Ashok-reddy340&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Ashok Reddy's github stats" /></a> | <a href="https://github.com/Ashok-reddy340/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashok-reddy340&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
-
-
-<img src="https://github-readme-stats.vercel.app/api?username=Ashok-reddy340&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"> | <a href="https://github.com/Ashok-reddy340/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashok-reddy340&layout=compact&theme=buefy&hide_border=true" /></a>
 
