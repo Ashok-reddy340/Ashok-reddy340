@@ -13,14 +13,17 @@
 <img align="left" alt="JAVA" width="100px" src="https://img.shields.io/badge/-java-3f4441?style=plastic&logo=java" />
 <img align="left" alt="Python" width="100px" src="https://www.python.org/static/community_logos/python-logo.png" />
 <img align="left" alt="Spring boot" width="26px" src="https://user-images.githubusercontent.com/19311256/89726694-eef1be00-da3a-11ea-8551-a9e143ea0c5d.png" />
+<img align="left" alt="Eclipse" width="26px" src="https://user-images.githubusercontent.com/19311256/89726620-eea4f300-da39-11ea-8d26-8f1d68a2704a.png" />
 <img align="left" alt="Pycharm" width="50px" src="https://resources.jetbrains.com/storage/products/pycharm/img/meta/pycharm_logo_300x300.png" />
-<img align="left" alt="IJIDEA" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/96px-IntelliJ_IDEA_Icon.svg.png" />
 <img align="left" alt="DJango" width="50px"src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/django.jpg?raw=true"  />
 <img align="left" alt="DJango" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /><img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /><img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="MySQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="Git" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /> <br>
 <img align="left" alt="Bootstrap" width="100px" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+<img align="left" alt="IJIDEA" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/96px-IntelliJ_IDEA_Icon.svg.png" />
+<img align="left" alt="Spring tool suite" width="26px" src="https://user-images.githubusercontent.com/19311256/89726919-c61ef800-da3d-11ea-868d-b33d9955dfcc.png" />
+
 
 
 <br />
