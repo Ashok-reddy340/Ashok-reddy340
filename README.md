@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Ashok Reddy LakkiReddy</h1>
 <h4 align="left" >I'm 23-year-old boy on an intention to enhance as a successful java  developer. I love building  web applications and mobile apps . looking to solve real-world problems🌏. I'm passionate about making open-source more accessible,I have proved my superiority in Back-End technologies. </h4>
 
-- 🔭 I’m currently working on building and stunning <h5>Ecommerce websites using JAVA and SpringBoot</h5>
-- 🌱 I’m currently learning <h5>Ecthical Hacking<h5>
-- 🤔 I’m looking for help with<h5> Back-end and Cyber Security.</h5>
+- 🔭 I’m currently working on building and stunning Ecommerce websites using JAVA and SpringBoot
+- 🌱 I’m currently learning Ecthical Hacking
+- 🤔 I’m looking for help with Back-end and Cyber Security.
 - Backend Development : Java , Python
 - DataBase Managment : Sql, MySql, Oracle...  
-- 💬 Ask me about anything releated about <h5>Backend Technologies,websites,Communities</h5>
+- 💬 Ask me about anything releated about Backend Technologies,websites,Communities
 - 📫 How to reach me: ashoklakki94@gmail.com
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: i dropout B.tech 
