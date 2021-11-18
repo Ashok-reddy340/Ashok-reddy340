@@ -7,7 +7,7 @@
 - Backend Development : Java , Python
 - DataBase Managment : Sql, MySql, Oracle...  
 - 💬 Ask me about anything releated about Backend Technologies,websites,Communities
-- 📫 How to reach me: ashoklakki94@gmail.com
+- 📫 How to reach me: ashoklakki94@gmail.com | Twitter : @Ashok_Reddy1248 | Linkedin : https://www.linkedin.com/in/ashok-lakkireddy-42b693207/
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: i dropout B.tech 
 <h3 align="left">Languages and Tools:</h3>
@@ -22,7 +22,7 @@
 <img align="left" alt="MySQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="Git" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /> <br>
 <img align="left" alt="Bootstrap" width="100px" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-<img align="left" alt="IJIDEA" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/96px-IntelliJ_IDEA_Icon.svg.png" />
+<img align="left" alt="IJIDEA" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/96px-IntelliJ_IDEA_Icon.svg.png" />
 <img align="left" alt="Spring tool suite" width="26px" src="https://user-images.githubusercontent.com/19311256/89726919-c61ef800-da3d-11ea-868d-b33d9955dfcc.png" />
 
 
